@@ -1,0 +1,22 @@
+# ignore VS Code settings and cache files
+.vscode/
+.history
+.cache
+
+# ignore dependencies
+node_modules/
+
+# ignore build output
+build/
+
+# ignore coverage reports
+coverage/
+
+# ignore test output
+test-report/
+
+# ignore logs
+logs/
+
+# ignore local environment variables
+.env
